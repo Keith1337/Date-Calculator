@@ -1,10 +1,7 @@
-# Date-Calculator
-Simple EXE that give you the exact Date.
-
-# How to Use it?
-Download the .exe in the Latest branch.
-Open it and add an Amount for example 90.
-then it will give you the exact date in 90 days.
+# Date Calculator
+This script is a simple date calculator that allows the user to input a number of days and calculates the corresponding date.
+It consists of a MainWindow class that handles the user interface and a DateCalculator class that contains the logic for calculating the date.
+#
 
 # Preview
 
